@@ -54,7 +54,7 @@ Fuera del código: folklore argentino 🪗, videojuegos 🎮 y mis gatos 🐱.
 
 ## 📫 Hablemos
 
-- 💼 Mi portafolio: [claude.ai/artifact/TyC2zHM6P4aMQgVs4AcPzE](https://claude.ai/artifact/TyC2zHM6P4aMQgVs4AcPzE)
+- 💼 Mi portafolio: https://w1sar.github.io
 - ✉️ angelriquelme573@gmail.com
 
 <p align="center"><i>GAME ON 🎮</i></p>
