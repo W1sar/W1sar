@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Hola, soy Ángel 👋</h1>
+<h1 align="center">🎮 Hola, soy Angel 👋</h1>
 
 <p align="center">
   <b>Técnico Informático · Estudiante de Ingeniería en Informática</b><br>
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PLAYER_1-Ángel_Riquelme-e2573a?style=for-the-badge" alt="Player 1">
+  <img src="https://img.shields.io/badge/PLAYER_1-Angel_Riquelme-e2573a?style=for-the-badge" alt="Player 1">
   <img src="https://img.shields.io/badge/NIVEL-Estudiante-3ddc84?style=for-the-badge" alt="Nivel">
   <img src="https://img.shields.io/badge/ESTADO-Buscando_su_primera_misión-blue?style=for-the-badge" alt="Estado">
 </p>
@@ -54,7 +54,7 @@ Fuera del código: folklore argentino 🪗, videojuegos 🎮 y mis gatos 🐱.
 
 ## 📫 Hablemos
 
-- 💼 Mi portafolio: https://w1sar.github.io
+- 💼 Mi portafolio: [claude.ai/artifact/TyC2zHM6P4aMQgVs4AcPzE](https://claude.ai/artifact/TyC2zHM6P4aMQgVs4AcPzE)
 - ✉️ angelriquelme573@gmail.com
 
 <p align="center"><i>GAME ON 🎮</i></p>
