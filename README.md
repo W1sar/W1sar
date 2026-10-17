@@ -42,6 +42,13 @@ Sistema de **caja y stock para una carnicería con almacén**. Es una aplicació
 - 🔐 Usuarios con roles (encargado y cajero): el cajero nunca ve costos ni márgenes
 - 🧮 Dinero en **centavos enteros** y pesos en gramos, sin decimales; cada cobro es una transacción única que no se duplica
 
+<p align="center">
+  <img src="capturas/carniceria-caja.jpg" width="32%" alt="Pantalla de caja con una venta de cuatro productos y el total a cobrar">
+  <img src="capturas/carniceria-cuenta-cliente.jpg" width="32%" alt="Clientes con cuenta corriente y el detalle de la cuenta de uno de ellos">
+  <img src="capturas/carniceria-resumen.jpg" width="32%" alt="Resumen del día con ventas por medio de pago y ganancia bruta">
+</p>
+<p align="center"><sub>Caja con lector de código de barras · cuentas corrientes de clientes · resumen del día (datos de ejemplo)</sub></p>
+
 ### 🦷 Sitio web y sistema de turnos para un consultorio odontológico
 
 <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML, CSS y JavaScript"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/repositorio-privado-555555?style=flat-square" alt="Repositorio privado">
@@ -115,8 +122,7 @@ Trabajo integrador de **Programación Estructurada**: aplicación de consola en 
 
 ## 📫 Hablemos
 
-- 🌐 Mi sitio: [w1sar.github.io](https://w1sar.github.io/)
-- 💼 Mi portafolio: [claude.ai/artifact/TyC2zHM6P4aMQgVs4AcPzE](https://claude.ai/artifact/TyC2zHM6P4aMQgVs4AcPzE)
+- 💼 Mi portafolio: [w1sar.github.io](https://w1sar.github.io/)
 - ✉️ angelriquelme573@gmail.com
 
 <p align="center"><i>GAME ON 🎮</i></p>
