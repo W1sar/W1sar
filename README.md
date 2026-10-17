@@ -49,11 +49,11 @@ Sistema de **caja y stock para una carnicería con almacén**. Es una aplicació
 </p>
 <p align="center"><sub>Caja con lector de código de barras · cuentas corrientes de clientes · resumen del día (datos de ejemplo)</sub></p>
 
-### 🦷 Sitio web y sistema de turnos para un consultorio odontológico
+### 🦷 Sitio web y sistema de turnos · Consultorio de la Dra. Riquelme
 
 <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML, CSS y JavaScript"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/repositorio-privado-555555?style=flat-square" alt="Repositorio privado">
 
-Página para pacientes y panel de administración para una profesional de la salud. Hoy funciona con **datos de prueba**, hasta terminar la revisión legal.
+Página para pacientes y panel de administración para el consultorio de la **Dra. Liliana A. Riquelme**, odontóloga en Wanda y Puerto Libertad (Misiones). Publicado con su autorización. Hoy funciona con **datos de prueba**, hasta terminar la revisión legal. [Ver el proyecto en mi portafolio](https://w1sar.github.io/#consultorio).
 
 - 📅 El paciente **elige lugar, día y horario**: solo ve los horarios de atención, y los ocupados no se pueden elegir
 - 🛡️ Las reglas viven **en la base de datos** (restricciones de exclusión y reglas de acceso por fila), no solo en la pantalla: aunque alguien saltee la página, la base rechaza horarios inválidos u ocupados. Verificado con 40 pruebas
@@ -61,6 +61,13 @@ Página para pacientes y panel de administración para una profesional de la sal
 - ✨ Diseño responsive con movimiento: red de hexágonos animada en canvas, parallax y menú a pantalla completa
 - 📜 Aviso de privacidad según la Ley 25.326, sin cookies, tipografías propias y encabezados de seguridad
 - ♻️ Despliegue automático en cada cambio y una tarea diaria que evita que la base gratuita se pause
+
+<p align="center">
+  <img src="capturas/consultorio-portada.jpg" width="32%" alt="Portada del sitio del consultorio, con una red de hexágonos y los datos de atención">
+  <img src="capturas/consultorio-turnos.jpg" width="32%" alt="Formulario para pedir turno con el día y el horario elegidos">
+  <img src="capturas/consultorio-panel.jpg" width="32%" alt="Panel de la doctora con solicitudes que traen día, hora y lugar">
+</p>
+<p align="center"><sub>Portada · elegir día y horario · panel de la doctora (el panel usa datos de ejemplo)</sub></p>
 
 ### 🚗 Sistema de alquiler de vehículos
 
