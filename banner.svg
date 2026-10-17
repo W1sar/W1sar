@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+  <title id="t">Angel Riquelme, Técnico Informático y estudiante de Ingeniería en Informática</title>
+  <desc id="d">Banner del perfil con estilo de videojuego: Player 1, el nombre y una terminal con las misiones completadas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16162f"/>
+      <stop offset=".55" stop-color="#2a1d5c"/>
+      <stop offset="1" stop-color="#0d3b3f"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e2573a"/>
+      <stop offset="1" stop-color="#ffcf4a"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".06"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <circle cx="1010" cy="70" r="120" fill="#7c5cff" opacity=".25" filter="url(#glow)"/>
+  <circle cx="120" cy="300" r="130" fill="#e2573a" opacity=".18" filter="url(#glow)"/>
+
+  <!-- bloques pixelados decorativos -->
+  <g fill="#3ddc84" opacity=".9">
+    <rect x="70" y="52" width="14" height="14"/><rect x="88" y="52" width="14" height="14" opacity=".6"/><rect x="106" y="52" width="14" height="14" opacity=".3"/>
+  </g>
+
+  <text x="70" y="124" font-family="'Courier New',Courier,monospace" font-size="24" fill="#3ddc84" letter-spacing="7">PLAYER 1</text>
+  <text x="68" y="204" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="80" font-weight="800" fill="#ffffff">Angel Riquelme</text>
+  <rect x="70" y="222" width="240" height="6" rx="3" fill="url(#acc)"/>
+  <text x="70" y="268" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="26" fill="#cfd3ff">Técnico Informático · Estudiante de Ingeniería en Informática</text>
+
+  <!-- terminal -->
+  <g transform="translate(790 62)">
+    <rect width="340" height="196" rx="14" fill="#0b0b1a" stroke="#ffffff" stroke-opacity=".18"/>
+    <rect width="340" height="34" rx="14" fill="#ffffff" fill-opacity=".07"/>
+    <circle cx="22" cy="17" r="5.5" fill="#ff5f56"/><circle cx="42" cy="17" r="5.5" fill="#ffbd2e"/><circle cx="62" cy="17" r="5.5" fill="#27c93f"/>
+    <g font-family="'Courier New',Courier,monospace" font-size="17">
+      <text x="20" y="68" fill="#3ddc84">$ misiones --listar</text>
+      <text x="20" y="98" fill="#e8e8ff">[x] caja-y-stock <tspan fill="#8a8fc8">(PHP)</tspan></text>
+      <text x="20" y="124" fill="#e8e8ff">[x] turnos-web <tspan fill="#8a8fc8">(SQL)</tspan></text>
+      <text x="20" y="150" fill="#e8e8ff">[x] alquiler <tspan fill="#8a8fc8">(C)</tspan></text>
+      <text x="20" y="178" fill="#ffcf4a">&gt; siguiente misión</text>
+      <rect x="208" y="164" width="10" height="18" fill="#ffcf4a">
+        <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
