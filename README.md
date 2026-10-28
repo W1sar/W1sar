@@ -116,7 +116,7 @@ Trabajo integrador de **Programación Estructurada**: aplicación de consola en 
 
 - 🏫 **Ingeniería en Informática**, Universidad Gastón Dachary (segundo año)
 - 💻 **Técnico Informático**
-- 🌐 **Desarrollo Web Frontend** (curso de 3 meses)
+- 🌐 **Desarrollo Web Frontend**, Silicon Misiones, jul a sep 2026 ([ver certificado](https://w1sar.github.io/certificados/desarrollo-web-frontend.pdf))
 - 🤖 **Arquitectos e Ingeniería en IA** (cursando)
 - 🗣️ **Inglés**, Instituto Sunshine, Wanda
 
