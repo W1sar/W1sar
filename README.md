@@ -120,6 +120,11 @@ Trabajo integrador de **Programación Estructurada**: aplicación de consola en 
 - 🤖 **Arquitectos e Ingeniería en IA** (cursando)
 - 🗣️ **Inglés**, Instituto Sunshine, Wanda
 
+<p align="center">
+  <a href="https://w1sar.github.io/certificados/desarrollo-web-frontend.pdf"><img src="capturas/certificado-frontend.jpg" width="60%" alt="Certificado del curso Desarrollo Web Frontend, Silicon Misiones, 2026"></a>
+</p>
+<p align="center"><sub>Certificado del curso Desarrollo Web Frontend · Silicon Misiones, 2026 (clic para ver el PDF)</sub></p>
+
 ## 🌱 Ahora mismo estoy
 
 - 🎯 Terminando mis primeros sistemas completos: caja y stock para una carnicería, y turnos para un consultorio
