@@ -2,18 +2,24 @@
 
 <img src="banner.svg" alt="Angel Riquelme, Técnico Informático y estudiante de Ingeniería en Informática" width="100%">
 
-<h1>🎮 Hola, soy Angel 👋</h1>
+<h1>Hola, soy Ángel 👋</h1>
 
 <p>
-  <b>Técnico Informático · Estudiante de Ingeniería en Informática</b><br>
+  <b>Software a medida que se usa</b><br>
+  Técnico Informático · Estudiante de Ingeniería en Informática<br>
   📍 De Wanda, viviendo en Posadas, Misiones 🇦🇷 🌿
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/PLAYER_1-Angel_Riquelme-e2573a?style=for-the-badge" alt="Player 1">
-  <img src="https://img.shields.io/badge/NIVEL-Estudiante-3ddc84?style=for-the-badge" alt="Nivel">
-  <img src="https://img.shields.io/badge/MISIONES-6_completadas-7c5cff?style=for-the-badge" alt="Misiones completadas">
-  <img src="https://img.shields.io/badge/ESTADO-Buscando_su_primera_misión-blue?style=for-the-badge" alt="Estado">
+  <img src="https://img.shields.io/badge/ESTADO-Disponible_para_proyectos-baff29?style=for-the-badge&labelColor=09090b" alt="Estado: disponible para proyectos">
+  <img src="https://img.shields.io/badge/SISTEMAS-3_construidos-f4f4f0?style=for-the-badge&labelColor=09090b" alt="Tres sistemas construidos">
+  <img src="https://img.shields.io/badge/UGD-2.%C2%BA_a%C3%B1o-f4f4f0?style=for-the-badge&labelColor=09090b" alt="Segundo año de Ingeniería en Informática">
+</p>
+
+<p>
+  <a href="https://w1sar.github.io/"><b>[ VER MI PORTAFOLIO ]</b></a> ·
+  <a href="https://wa.me/5493764151908"><b>[ ESCRIBIME POR WHATSAPP ]</b></a> ·
+  <a href="mailto:angelriquelme573@gmail.com"><b>[ MAIL ]</b></a>
 </p>
 
 </div>
@@ -22,13 +28,13 @@
 
 ## 🧑‍💻 Sobre mí
 
-Me apasiona la tecnología. Empecé por los videojuegos y hoy estudio para construirlos y crear cosas propias. Me gusta aprender rápido, resolver problemas y trabajar en equipo.
+Me apasiona la tecnología. Empecé por los videojuegos y hoy construyo **webs, sistemas de gestión y bots de IA** para negocios reales, de los requisitos a la instalación. Soy técnico informático y estudio Ingeniería en Informática.
 
 Lo que más disfruto es **armar sistemas completos que alguien va a usar de verdad**: pensar qué necesita la persona, escribirlo, construirlo, probarlo y dejarlo funcionando.
 
 Fuera del código: folklore argentino 🪗, videojuegos 🎮 y mis gatos 🐱.
 
-## 🚀 Misiones destacadas
+## 🚀 Proyectos destacados
 
 ### 🏪 Carnicería Angel · Caja y stock
 
@@ -79,6 +85,7 @@ Trabajo integrador de **Programación Estructurada**: aplicación de consola en 
 
 | Proyecto | Qué es |
 |---|---|
+| 🏢 [**Hiro Digital**](https://w1sar.github.io/hiro-digital/) | Mi agencia: webs y sistemas a medida. Sitio publicado, hecho a mano |
 | 🐱 [**Gato Misionero**](https://github.com/W1sar/gato-misionero) · [▶ Jugar](https://w1sar.github.io/gato-misionero/) | Minijuego hecho con HTML, CSS y JavaScript: atrapá mates y pescados, esquivá las piedras |
 | 📚 [**entrega-tareas-silicon-misiones**](https://github.com/W1sar/entrega-tareas-silicon-misiones) | Trabajos del curso en JavaScript |
 | 🎨 [**qr-code-component**](https://github.com/W1sar/qr-code-component) | Componente de código QR maquetado con CSS |
@@ -90,7 +97,7 @@ Trabajo integrador de **Programación Estructurada**: aplicación de consola en 
 - 🔒 **Seguridad desde el principio**: sin claves en el código, accesos mínimos y datos de prueba hasta validar
 - 🗂️ **Dejo todo documentado** para que otra persona pueda seguir el trabajo
 
-## 🛠️ Inventario (tecnologías)
+## 🛠️ Tecnologías
 
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
@@ -112,7 +119,7 @@ Trabajo integrador de **Programación Estructurada**: aplicación de consola en 
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black" alt="Netlify">
 </p>
 
-## 🎓 Mi progreso
+## 🎓 Formación
 
 - 🏫 **Ingeniería en Informática**, Universidad Gastón Dachary (segundo año)
 - 💻 **Técnico Informático**
@@ -134,7 +141,10 @@ Trabajo integrador de **Programación Estructurada**: aplicación de consola en 
 
 ## 📫 Hablemos
 
-- 💼 Mi portafolio: [w1sar.github.io](https://w1sar.github.io/)
+¿Tenés un negocio y necesitás una web, un sistema o un bot? Contame qué necesitás y lo vemos.
+
+- 💼 Portafolio: [w1sar.github.io](https://w1sar.github.io/)
+- 💬 WhatsApp: [escribime](https://wa.me/5493764151908)
 - ✉️ angelriquelme573@gmail.com
 
-<p align="center"><i>GAME ON 🎮</i></p>
+<p align="center"><i>Hecho para usarse.</i></p>
