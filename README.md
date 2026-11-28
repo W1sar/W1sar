@@ -85,7 +85,7 @@ Trabajo integrador de **Programación Estructurada**: aplicación de consola en 
 
 | Proyecto | Qué es |
 |---|---|
-| 🏢 [**Hiro Digital**](https://w1sar.github.io/hiro-digital/) | Mi agencia: webs y sistemas a medida. Sitio publicado, hecho a mano |
+| 🏢 [**Hiro Digital**](https://hirodigital.com.ar/) | Mi agencia: webs y sistemas a medida. Sitio publicado, hecho a mano |
 | 🐱 [**Gato Misionero**](https://github.com/W1sar/gato-misionero) · [▶ Jugar](https://w1sar.github.io/gato-misionero/) | Minijuego hecho con HTML, CSS y JavaScript: atrapá mates y pescados, esquivá las piedras |
 | 📚 [**entrega-tareas-silicon-misiones**](https://github.com/W1sar/entrega-tareas-silicon-misiones) | Trabajos del curso en JavaScript |
 | 🎨 [**qr-code-component**](https://github.com/W1sar/qr-code-component) | Componente de código QR maquetado con CSS |
